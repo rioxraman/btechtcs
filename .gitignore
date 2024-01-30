@@ -1,0 +1,6 @@
+.idea/
+cmake-build-debud/
+.idea\
+cmake-build-debud\
+/.idea
+/cmake-build-debud
